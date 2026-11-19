@@ -1,0 +1,36 @@
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*credentials*.json
+*secrets*.json
+
+# Production configuration
+config.json
+config.production.json
+
+# Database backups
+*.sql
+*.dump
+*.backup
+*.bak
+
+# Backup archives
+*.tar
+*.tar.gz
+*.zip
+*.7z
+*.gpg
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Operating system files
+.DS_Store
+Thumbs.db
