@@ -22,6 +22,34 @@ The server runs on a repurposed Lenovo laptop, providing an opportunity to build
 
 
 
+\## Project Documentation
+
+
+
+The following guides document the implementation, architecture, security, maintenance, and troubleshooting of this self-hosted environment.
+
+
+
+| Documentation | Description |
+
+|---|---|
+
+| \[Server Architecture](diagrams/architecture.md) | Infrastructure diagram showing the server, Docker containers, Tailscale, and backup storage |
+
+| \[Installation \& Deployment](docs/installation.md) | Ubuntu setup, Docker Compose deployment, and container administration |
+
+| \[Networking \& Security](docs/networking.md) | Private Tailscale connectivity, HTTPS, and network troubleshooting |
+
+| \[Backup \& Recovery](docs/backups.md) | PostgreSQL backups, Bash automation, cron scheduling, and restore testing |
+
+| \[Troubleshooting](docs/troubleshooting.md) | Technical investigations, including AFFiNE's Gemini BYOK integration |
+
+
+
+All documentation uses sanitized examples to protect the production environment.
+
+
+
 \## Technology Stack
 
 
