@@ -52,6 +52,8 @@ The server runs on a repurposed Lenovo laptop, providing an opportunity to build
 
 \## System Architecture
 
+\[View the Server Architecture Diagram](diagrams/architecture.md)
+
 
 
 The environment consists of:
